@@ -1,0 +1,3 @@
+Junior, Sammy,Chevy  Suburban 2018,10/21/2019, 10/25/2019
+Deal, Robert,Chevy  Impala 2016,10/21/2019,10/24/2019
+Rash,  Adam,Chrysler   Fiat   2018,11/21/2019,11/22/2019

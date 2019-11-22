@@ -1,0 +1,6 @@
+Chevy,  Suburban,  2018,  20110,  van
+Chevy,  Impala,  2016,  51400,  sedan
+Chrysler,  Fiat,  2018,   1750,  sedan
+Hudundai,  Accent,  2018,  1050,  sedan
+Jetta,  VW,  2019,  0098,  sedan
+Impala, Checy, 2019, 0020, Sedan
